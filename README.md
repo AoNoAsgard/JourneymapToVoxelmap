@@ -5,7 +5,7 @@ a tool to convert the waypoint of journeymap to voxelmap in a single file
 
 create a new folder named "input" and put there the journeymap waypoints.
 
-then modify main.py and change the name of the world
+then edit main.py and change the name of the world
 
 then start the script and you'll find the voxelmap file in output 
 
